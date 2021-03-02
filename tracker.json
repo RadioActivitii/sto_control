@@ -1,0 +1,20 @@
+{
+    "event1": {
+        "name": "Q's Winter Wonderland (All Platforms)",
+        "startdate": "2020-12-8 17:00:00",
+        "enddate": "2021-1-7 17:00:00"
+    },
+    "event2": {
+        "name": "Double Experience Weekend! (PC)",
+        "startdate": "2020-12-3 16:00:00",
+        "enddate": "2020-12-7 18:00:00"
+    },
+    "legendary": {
+        "name": "Legendary Bundle Tracker",
+        "startdate": "2021-01-01 16:00:00"
+    },
+    "delta": {
+        "name": "Delta Rising Launch Date",
+	    "startdate": "2014-10-14 17:00:00"
+    }
+}

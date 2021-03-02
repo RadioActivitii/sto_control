@@ -1,0 +1,1 @@
+A simple bot for the STO Discord server, and also the first programming thing I've ever done.
